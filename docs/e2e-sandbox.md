@@ -84,7 +84,7 @@ The daemon polls every 10 seconds and reports TTL health for your local contract
 
 ### 6. (Optional) Trigger TTL changes
 
-To simulate TTL changes, you can advance the local network ledger:
+
 
 ```bash
 stellar lab close-ledger
